@@ -1,0 +1,227 @@
+[
+  {
+    "id": "P001",
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "brand": "SoundWave",
+    "description": "Premium wireless headphones with active noise cancellation.",
+    "variants": [
+      {
+        "variant_id": "P001-V1",
+        "name": "Black",
+        "sku": "SW-HDP-BLK",
+        "price": 79.99,
+        "stock": 120,
+        "attributes": {
+          "color": "Black",
+          "battery_life": "30 hours",
+          "connectivity": "Bluetooth 5.3"
+        }
+      },
+      {
+        "variant_id": "P001-V2",
+        "name": "White",
+        "sku": "SW-HDP-WHT",
+        "price": 84.99,
+        "stock": 95,
+        "attributes": {
+          "color": "White",
+          "battery_life": "30 hours",
+          "connectivity": "Bluetooth 5.3"
+        }
+      },
+      {
+        "variant_id": "P001-V3",
+        "name": "Navy Blue",
+        "sku": "SW-HDP-NVY",
+        "price": 89.99,
+        "stock": 60,
+        "attributes": {
+          "color": "Navy Blue",
+          "battery_life": "35 hours",
+          "connectivity": "Bluetooth 5.3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "P002",
+    "name": "Smart Fitness Watch",
+    "category": "Wearables",
+    "brand": "FitTrack",
+    "description": "Smartwatch with fitness tracking, GPS, and health monitoring.",
+    "variants": [
+      {
+        "variant_id": "P002-V1",
+        "name": "42mm Black",
+        "sku": "FT-WAT-42-BLK",
+        "price": 149.99,
+        "stock": 80,
+        "attributes": {
+          "size": "42mm",
+          "color": "Black",
+          "strap_material": "Silicone"
+        }
+      },
+      {
+        "variant_id": "P002-V2",
+        "name": "46mm Silver",
+        "sku": "FT-WAT-46-SLV",
+        "price": 169.99,
+        "stock": 55,
+        "attributes": {
+          "size": "46mm",
+          "color": "Silver",
+          "strap_material": "Silicone"
+        }
+      },
+      {
+        "variant_id": "P002-V3",
+        "name": "46mm Gold",
+        "sku": "FT-WAT-46-GLD",
+        "price": 179.99,
+        "stock": 30,
+        "attributes": {
+          "size": "46mm",
+          "color": "Gold",
+          "strap_material": "Leather"
+        }
+      }
+    ]
+  },
+  {
+    "id": "P003",
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "brand": "ComfortPro",
+    "description": "Adjustable office chair with lumbar support and breathable mesh.",
+    "variants": [
+      {
+        "variant_id": "P003-V1",
+        "name": "Gray Standard",
+        "sku": "CP-CHR-GRY",
+        "price": 249.50,
+        "stock": 42,
+        "attributes": {
+          "color": "Gray",
+          "material": "Mesh",
+          "headrest": false
+        }
+      },
+      {
+        "variant_id": "P003-V2",
+        "name": "Black Standard",
+        "sku": "CP-CHR-BLK",
+        "price": 259.50,
+        "stock": 35,
+        "attributes": {
+          "color": "Black",
+          "material": "Mesh",
+          "headrest": false
+        }
+      },
+      {
+        "variant_id": "P003-V3",
+        "name": "Black Executive",
+        "sku": "CP-CHR-EXE",
+        "price": 319.99,
+        "stock": 20,
+        "attributes": {
+          "color": "Black",
+          "material": "Mesh + Leather",
+          "headrest": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "P004",
+    "name": "Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "brand": "HydraFlow",
+    "description": "Vacuum-insulated bottle for hot and cold beverages.",
+    "variants": [
+      {
+        "variant_id": "P004-V1",
+        "name": "500ml Blue",
+        "sku": "HF-BTL-500-BLU",
+        "price": 19.99,
+        "stock": 180,
+        "attributes": {
+          "capacity": "500ml",
+          "color": "Blue",
+          "insulation": "Double Wall"
+        }
+      },
+      {
+        "variant_id": "P004-V2",
+        "name": "750ml Black",
+        "sku": "HF-BTL-750-BLK",
+        "price": 24.99,
+        "stock": 150,
+        "attributes": {
+          "capacity": "750ml",
+          "color": "Black",
+          "insulation": "Double Wall"
+        }
+      },
+      {
+        "variant_id": "P004-V3",
+        "name": "1L Silver",
+        "sku": "HF-BTL-1000-SLV",
+        "price": 29.99,
+        "stock": 90,
+        "attributes": {
+          "capacity": "1L",
+          "color": "Silver",
+          "insulation": "Double Wall"
+        }
+      }
+    ]
+  },
+  {
+    "id": "P005",
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Computer Accessories",
+    "brand": "KeyForge",
+    "description": "Mechanical keyboard with RGB lighting and programmable keys.",
+    "variants": [
+      {
+        "variant_id": "P005-V1",
+        "name": "Blue Switch",
+        "sku": "KF-KBD-BLU",
+        "price": 109.99,
+        "stock": 70,
+        "attributes": {
+          "switch_type": "Blue",
+          "layout": "Full Size",
+          "rgb": true
+        }
+      },
+      {
+        "variant_id": "P005-V2",
+        "name": "Red Switch",
+        "sku": "KF-KBD-RED",
+        "price": 114.99,
+        "stock": 65,
+        "attributes": {
+          "switch_type": "Red",
+          "layout": "Full Size",
+          "rgb": true
+        }
+      },
+      {
+        "variant_id": "P005-V3",
+        "name": "Brown Switch TKL",
+        "sku": "KF-KBD-BRN-TKL",
+        "price": 119.99,
+        "stock": 40,
+        "attributes": {
+          "switch_type": "Brown",
+          "layout": "Tenkeyless",
+          "rgb": true
+        }
+      }
+    ]
+  }
+]
